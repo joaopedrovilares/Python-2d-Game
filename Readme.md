@@ -4,7 +4,7 @@ Using the famous PyQT5 framework we were able to code an usefull and pretty Menu
 
 For the game logic we used some of the PyGame opensource code.
 
-![](spaceship.gif)
+![Alt Text](spaceship.gif)
 
 Get a look at: "https://www.youtube.com/embed/TR0N8SIOhUY"
 
